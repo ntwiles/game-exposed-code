@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <editorsettings>
+  <export target="dungeon.json" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" name="dungeon" tilewidth="32" tileheight="32" tilecount="112" columns="4">
+  <image source="../tiles/dungeon.png" width="128" height="896"/>
+ </tileset>
+ <layer id="1" name="ground" width="10" height="10">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAQAAAAAAAAAAAAAAAUAAAAHAAAABwAAAAcAAAAHAAAABwAAAAcAAAAIAAAAAAAAAAAAAAAFAAAABwAAAAcAAAAHAAAABwAAAAcAAAAHAAAACAAAAAAAAAAAAAAABQAAAAcAAAAHAAAABwAAAAcAAAAHAAAABwAAAAgAAAAAAAAAAAAAAA0AAAAOAAAADgAAAA4AAAAPAAAADgAAAA8AAAAQAAAAAAAAAAAAAAARAAAAEgAAABIAAAASAAAAEgAAABIAAAASAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+  </data>
+ </layer>
+</map>
